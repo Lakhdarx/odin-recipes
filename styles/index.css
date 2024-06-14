@@ -1,21 +1,44 @@
-h1 {
-    font-weight: 800;
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-top: 120px;
+    background-color: greenyellow;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+
+
+
+.header {
+    margin-bottom: 30px;
     text-align: center;
 }
 
-body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: #42f5b6;
-    font-size: 30px;
+.container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+
 }
 
 
 
-a {
-    color:white;   
-    font-weight: 400;
-    font-size: 25px;   
-}
+
+
+
 
 
 
