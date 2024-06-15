@@ -1,6 +1,8 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
+    background-color: black;
+    color: antiquewhite;
 }
 
 h1, h3 {
@@ -10,6 +12,7 @@ h1, h3 {
 
 h3 {
     font-size:25px;
+    color:goldenrod;
 }
 
 h1 {
