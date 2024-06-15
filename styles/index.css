@@ -1,8 +1,13 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
+    color: antiquewhite;
     margin-top: 120px;
-    background-color: greenyellow;
+    background-color: black;
+}
+
+a {
+    color: antiquewhite;
 }
 
 html {
@@ -33,7 +38,6 @@ ul {
     display: inline-block;
 
 }
-
 
 
 
